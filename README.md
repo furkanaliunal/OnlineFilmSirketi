@@ -21,6 +21,11 @@ Please let me know what do you think about this project. 🙏🏻
 
 🔶🔷💠🔷🔶
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+UML Diagram of my work
 
 ![uml](src/images/uml.png)
 
