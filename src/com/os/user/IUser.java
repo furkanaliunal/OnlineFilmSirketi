@@ -9,9 +9,9 @@ public interface IUser {
 	public UserType getUserType();
 	public void setUserType(UserType userType);
 	public int getID();
-	public void addCurrency(Float amount);
+	public void addCurrency(float amount);
 	public float getCurrency();
-	public Boolean pay(Float amount);
+	public Boolean pay(float amount);
 	public ArrayList<Integer> getPurchasedFilms();
 	public String toStringDetailed();
 }

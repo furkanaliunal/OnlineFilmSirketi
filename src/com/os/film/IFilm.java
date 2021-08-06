@@ -8,9 +8,9 @@ public interface IFilm {
 	public String toString();
 	public Boolean hasCategory(FilmCategory filmCategory);
 	public void addCategory(FilmCategory filmCategory);
-	public void setSellPrice(Float price);
-	public void setRentPrice(Float price);
-	public Float getSellPrice();
-	public Float getRentPrice();
+	public void setSellPrice(float price);
+	public void setRentPrice(float price);
+	public float getSellPrice();
+	public float getRentPrice();
 	public int getFilmID();
 }

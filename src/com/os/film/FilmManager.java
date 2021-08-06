@@ -3,7 +3,6 @@ package com.os.film;
 import java.util.Collection;
 import java.util.HashMap;
 
-import com.os.user.IUser;
 
 
 public class FilmManager {
@@ -42,7 +41,7 @@ public class FilmManager {
 		}
 	}
 	
-	public Collection<IFilm> getAllUsers(){
+	public Collection<IFilm> getAllFilms(){
 		return films.values();
 	}
 }

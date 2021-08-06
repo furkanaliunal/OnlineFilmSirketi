@@ -51,19 +51,19 @@ public class Film implements IFilm{
 	public void addCategory(FilmCategory filmCategory) {
 		filmData.addFilmCategory(filmCategory);
 	}
-	public void setSellPrice(Float price) {
+	public void setSellPrice(float price) {
 		this.sellPrice = price;
 	}
 	
-	public void setRentPrice(Float price) {
+	public void setRentPrice(float price) {
 		this.rentPrice = price;
 	}
 	
 
-	public Float getSellPrice() {
+	public float getSellPrice() {
 		return this.sellPrice;
 	}
-	public Float getRentPrice() {
+	public float getRentPrice() {
 		return this.rentPrice;
 	}
 

@@ -3,9 +3,9 @@ package com.os.payment;
 import java.util.Date;
 
 public class Credit extends Payment{
-	String cardHolder;
-	String longNumber;
-	Date expiryDate;
+	private String cardHolder;
+	private String longNumber;
+	private Date expiryDate;
 	char[] cvv = new char[3];
 	public Credit(String cardHolder, String longNumber, Date expiryDate, char[] cvv, float amount, int userID) {
 		this.cardHolder = cardHolder;

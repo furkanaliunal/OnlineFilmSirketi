@@ -61,7 +61,7 @@ public abstract class User implements IUser{
 	}
 	
 
-	public void addCurrency(Float amount) {
+	public void addCurrency(float amount) {
 		this.currency += amount;
 	}
 	
@@ -70,7 +70,7 @@ public abstract class User implements IUser{
 		return this.currency;
 	}
 
-	public Boolean pay(Float amount) {
+	public Boolean pay(float amount) {
 		if (this.currency < amount) {
 			return false;
 		}

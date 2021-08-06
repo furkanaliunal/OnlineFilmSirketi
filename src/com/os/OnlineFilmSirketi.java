@@ -86,7 +86,7 @@ public class OnlineFilmSirketi {
 			
 			IFilm film = filmManager.getIFilmFromID(1);
 			
-			Collection<IFilm> films = filmManager.getAllUsers();
+			Collection<IFilm> films = filmManager.getAllFilms();
 	}
 	
 	public static void transactions() {
