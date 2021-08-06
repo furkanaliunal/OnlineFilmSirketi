@@ -9,9 +9,15 @@ I tried to write the code of uml in my homework via Java☕ [Click to go to home
 
 🔶🔷💠🔷🔶
 
+I used Encapsulation, Inheritance, Polymorphism, Abstraction and Java101 in this project
+
+
 This is my one day challange project to study and I am a beginner so I think my code is good but It might not be. 😅
 
+Trying to improve my experience
+
 Please let me know what do you think about this project. 🙏🏻  
+ 
 
 🔶🔷💠🔷🔶
 
