@@ -20,7 +20,7 @@ Please let me know what do you think about this project. 🙏🏻
 
 ---
 
->Main class is [com/os/OnlineFilmSirketi.java](#)
+>Main class is [com/os/OnlineFilmSirketi.java](https://github.com/furkanaliunal/PatikaOOP-OnlineFilmSirketi-in-Java-/blob/main/src/com/os/OnlineFilmSirketi.java)
 
 ---
 
